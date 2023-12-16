@@ -1,3 +1,6 @@
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+},
 {
   "name": "active-keto-gummies-autralia-newzealand-abhimxspace",
   "version": "1.0.0",
